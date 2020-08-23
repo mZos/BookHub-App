@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">favourites</string>
+    <string name="about">about</string>
+    <string name="profile">profile</string>
+    <string name="bookhub">BookHub</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">dashboard_fragment</string>
+    <string name="faourites_fragment">faourites_fragment</string>
+    <string name="profile_fragment">profile_fragment</string>
+    <string name="about_fragment">about_fragment</string>
+    <string name="jhon_doe">Jhon Doe</string>
+    <string name="Mohd_Zakariya">Mohammad Zakariya</string>
+    <string name="email">Email:</string>
+    <string name="mohdzakariya272_gmail_com">mohdzakariya272@gmail.com</string>
+    <string name="phone">Phone:</string>
+    <string name="profile_phone_number">+91 9795598407</string>
+    <string name="address">Address:</string>
+    <string name="profile_address">Maghar Uttar Pradesh, India</string>
+    <string name="sort">Sort</string>
+    <string name="copyright_bookhub_2020">Copyright © BookHub 2020</string>
+</resources>
